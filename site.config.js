@@ -6,14 +6,14 @@ const CONFIG = {
     role: " secure gosu",
     bio: "step up && stand up",
     email: "amemoyoi77@gmail.com",
-    linkedin: "morethanmin",
+    linkedin: "Amemoyoi",
     github: "Amemoyoi",
     instagram: "",
   },
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/Amemoyoi",
     },
   ],
   // blog setting (required)
